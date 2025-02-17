@@ -1,0 +1,85 @@
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\appsettings.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.staticwebassets.runtime.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.staticwebassets.endpoints.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.exe
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.deps.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.runtimeconfig.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\Address Book.pdb
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.AssemblyInfoInputs.cache
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.AssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.csproj.CoreCompileInputs.cache
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.RazorAssemblyInfo.cache
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.RazorAssemblyInfo.cs
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.sourcelink.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\scopedcss\bundle\Address Book.styles.css
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\scopedcss\projectbundle\Address Book.bundle.scp.css
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.Address Book.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.Address Book.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.build.Address Book.props
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Address Book.props
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Address Book.props
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\refint\Address Book.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.pdb
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.genruntimeconfig.cache
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\ref\Address Book.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address Book.csproj.AssemblyReference.cache
+C:\Users\patel\OneDrive\Desktop\SEM-4\ASP .NET CORE\Address Book\Address Book\obj\Debug\net8.0\Address .57687CB9.Up2Date
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\appsettings.json
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.staticwebassets.runtime.json
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.staticwebassets.endpoints.json
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.exe
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.deps.json
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.runtimeconfig.json
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.dll
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\Address Book.pdb
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\parma\Desktop\Address Book\Address Book\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.csproj.AssemblyReference.cache
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.AssemblyInfoInputs.cache
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.AssemblyInfo.cs
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.csproj.CoreCompileInputs.cache
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.RazorAssemblyInfo.cache
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.RazorAssemblyInfo.cs
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\scopedcss\bundle\Address Book.styles.css
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\scopedcss\projectbundle\Address Book.bundle.scp.css
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.Address Book.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.Address Book.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.build.Address Book.props
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Address Book.props
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Address Book.props
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address .57687CB9.Up2Date
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.dll
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\refint\Address Book.dll
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.pdb
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\Address Book.genruntimeconfig.cache
+C:\Users\parma\Desktop\Address Book\Address Book\obj\Debug\net8.0\ref\Address Book.dll
