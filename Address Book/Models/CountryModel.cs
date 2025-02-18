@@ -5,7 +5,7 @@ namespace Address_Book.Models
     public class CountryModel   
     {
         [Required]
-        public int CountryId { get; set; }
+        public int CountryID { get; set; }
         [Required]
         public string CountryName { get; set; }
         [Required]

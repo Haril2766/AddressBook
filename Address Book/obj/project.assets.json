@@ -178,11 +178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\parma\\Desktop\\Address Book\\Address Book\\Address Book.csproj",
+      "projectUniqueName": "C:\\Users\\parma\\Desktop\\AddressBook\\Address Book\\Address Book.csproj",
       "projectName": "Address Book",
-      "projectPath": "C:\\Users\\parma\\Desktop\\Address Book\\Address Book\\Address Book.csproj",
+      "projectPath": "C:\\Users\\parma\\Desktop\\AddressBook\\Address Book\\Address Book.csproj",
       "packagesPath": "C:\\Users\\parma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\parma\\Desktop\\Address Book\\Address Book\\obj\\",
+      "outputPath": "C:\\Users\\parma\\Desktop\\AddressBook\\Address Book\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
