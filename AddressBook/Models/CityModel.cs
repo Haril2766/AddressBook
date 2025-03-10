@@ -11,4 +11,5 @@
         public DateTime CreationDate { get; set; }
         public int UserId { get; set; }
     }
+
 }

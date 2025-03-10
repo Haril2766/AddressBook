@@ -89,6 +89,7 @@ namespace AddressBook._2.Controllers
         #region Country Delete
         public IActionResult CountryDelete(int CountryId)
         {
+            try { 
             string connectionString = configuration.GetConnectionString("ConnectionString");
             SqlConnection Connection = new SqlConnection(connectionString);
             Connection.Open();
@@ -97,6 +98,12 @@ namespace AddressBook._2.Controllers
             command.CommandText = "PR_Country_Delete";
             command.Parameters.AddWithValue("@CountryId", CountryId);
             command.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                TempData["ErrorMessage"] = ex.Message;
+                Console.WriteLine(ex.ToString());
+            }
             return RedirectToAction("CountryList");
         }
         #endregion Country Delete

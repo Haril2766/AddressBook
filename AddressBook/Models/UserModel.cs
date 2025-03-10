@@ -6,7 +6,7 @@ namespace QuizeManagement.Models
     {
         public int? UserID { get; set; }
 
-        //[Required(ErrorMessage ="User Name is Required")]
+        [Required(ErrorMessage ="User Name is Required")]
         public string UserName { get; set; }
         //[Required(ErrorMessage = "Password is Required")]
         public string Password { get; set; }

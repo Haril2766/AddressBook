@@ -1,54 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\",
+  "WorkspaceRootPath": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\addressbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:addressbook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\users\\usersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\users\\usersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:models\\citymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\users\\usersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\users\\usersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\country\\countryaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\country\\countryaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\state\\stateaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\state\\stateaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\state\\stateaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\state\\stateaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\city\\cityaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\city\\cityaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\country\\countryaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\country\\countryaddedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\city\\citylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\country\\countrylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:views\\state\\statelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook.2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|c:\\users\\parma\\desktop\\addressbook\\addressbook\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C347CD-D5DA-40B4-AF63-A3ADFEC54478}|AddressBook.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +74,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddressBook.2.csproj",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\AddressBook.csproj",
-              "RelativeDocumentMoniker": "AddressBook.csproj",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\AddressBook.csproj",
-              "RelativeToolTip": "AddressBook.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T13:08:35.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T13:04:24.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T13:02:19.878Z",
+              "WhenOpened": "2025-03-10T08:17:39.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Users\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\Register.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Users\\Register.cshtml",
-              "RelativeToolTip": "Views\\Users\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T05:48:01.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StateAddEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\State\\StateAddEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\State\\StateAddEdit.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\State\\StateAddEdit.cshtml",
-              "RelativeToolTip": "Views\\State\\StateAddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T05:29:52.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CountryAddEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Country\\CountryAddEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\CountryAddEdit.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Country\\CountryAddEdit.cshtml",
-              "RelativeToolTip": "Views\\Country\\CountryAddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T05:28:11.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CityAddEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\City\\CityAddEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\City\\CityAddEdit.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\City\\CityAddEdit.cshtml",
-              "RelativeToolTip": "Views\\City\\CityAddEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T05:25:11.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountryList.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Country\\CountryList.cshtml",
-              "RelativeDocumentMoniker": "Views\\Country\\CountryList.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Country\\CountryList.cshtml",
-              "RelativeToolTip": "Views\\Country\\CountryList.cshtml",
-              "ViewState": "AgIAAFoAAAAAAAAAAIBJwB8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T04:56:21.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAEcBAAAAAAAAAIBJwF8BAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T05:05:02.921Z",
+              "WhenOpened": "2025-03-10T08:17:00.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UsersView.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Users\\UsersView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\UsersView.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\Users\\UsersView.cshtml",
-              "RelativeToolTip": "Views\\Users\\UsersView.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBcAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T04:56:32.612Z",
+              "Title": "CityModel.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Models\\CityModel.cs",
+              "RelativeDocumentMoniker": "Models\\CityModel.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Models\\CityModel.cs",
+              "RelativeToolTip": "Models\\CityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:43:04.547Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersView.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Users\\UsersView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\UsersView.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Users\\UsersView.cshtml",
+              "RelativeToolTip": "Views\\Users\\UsersView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:32:30.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "Views\\Users\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:32:24.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StateAddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\State\\StateAddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\State\\StateAddEdit.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\State\\StateAddEdit.cshtml",
+              "RelativeToolTip": "Views\\State\\StateAddEdit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:27:55.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountryAddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Country\\CountryAddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\CountryAddEdit.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Country\\CountryAddEdit.cshtml",
+              "RelativeToolTip": "Views\\Country\\CountryAddEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:27:42.478Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "StateList.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\State\\StateList.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\State\\StateList.cshtml",
               "RelativeDocumentMoniker": "Views\\State\\StateList.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\State\\StateList.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\State\\StateList.cshtml",
               "RelativeToolTip": "Views\\State\\StateList.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAIBJwDUAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAAC3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T04:56:29.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T05:24:05.494Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CityList.cshtml",
-              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\City\\CityList.cshtml",
-              "RelativeDocumentMoniker": "Views\\City\\CityList.cshtml",
-              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook.2\\Views\\City\\CityList.cshtml",
-              "RelativeToolTip": "Views\\City\\CityList.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwA4AAAAdAAAAAAAAAA==",
+              "Title": "CountryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Country\\CountryList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Country\\CountryList.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\Country\\CountryList.cshtml",
+              "RelativeToolTip": "Views\\Country\\CountryList.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE0AAAC7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T04:56:16.011Z",
+              "WhenOpened": "2025-03-10T05:23:59.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityList.cshtml",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\City\\CityList.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\CityList.cshtml",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Views\\City\\CityList.cshtml",
+              "RelativeToolTip": "Views\\City\\CityList.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:23:52.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:20:58.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:20:52.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:20:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:20:49.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "Controllers\\CountryController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv2kAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:20:48.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\parma\\Desktop\\AddressBook\\AddressBook\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T05:20:47.548Z",
               "EditorCaption": ""
             }
           ]

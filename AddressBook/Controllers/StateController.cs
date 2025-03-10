@@ -89,16 +89,24 @@ namespace AddressBook._2.Controllers
         #region State Delete
         public IActionResult StateDelete(int StateId)
         {
-            string connectionString = configuration.GetConnectionString("ConnectionString");
-            SqlConnection Connection = new SqlConnection(connectionString);
-            Connection.Open();
-            SqlCommand command = Connection.CreateCommand();
-            command.CommandType = CommandType.StoredProcedure;
-            command.CommandText = "PR_State_Delete";
-            command.Parameters.AddWithValue("@StateId", StateId);
-            command.ExecuteNonQuery();
+            try
+            {
+                string connectionString = configuration.GetConnectionString("ConnectionString");
+                SqlConnection Connection = new SqlConnection(connectionString);
+                Connection.Open();
+                SqlCommand command = Connection.CreateCommand();
+                command.CommandType = CommandType.StoredProcedure;
+                command.CommandText = "PR_State_Delete";
+                command.Parameters.AddWithValue("@StateId", StateId);
+                command.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                TempData["ErrorMessage"] = ex.Message;
+                Console.WriteLine(ex.ToString());
+            }
             return RedirectToAction("StateList");
-        }
+            }
         #endregion Country Delete
     }
 }

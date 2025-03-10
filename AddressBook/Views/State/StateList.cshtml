@@ -2,6 +2,7 @@
 @using System.Data
 
 <main id="main" class="main">
+    <span class="text-danger">@TempData["ErrorMessage"]</span>
     <div class="pagetitle">
         <h1>State List</h1>
         <nav>
@@ -74,7 +75,7 @@
                                         <td>
                                             <a asp-controller="State" asp-action="StateAddEdit" asp-route-StateId="@row["StateId"]" class="btn btn-primary btn-sm" title="Upload new profile image"><i class="bi bi-pencil"></i></a>
 
-                                            <form method="post" asp-controller="State" asp-action="StateDelete" onsubmit="return confirmDelete()" style="display:inline;">
+                                            <form method="post" asp-controller="State" asp-action="StateDelete" onclick="return confirm('Are you sure you want to delete this user?');" style="display:inline;">
                                                 <input type="hidden" name="StateId" value="@row["StateId"]" />
                                                 <button type="submit" class="btn btn-danger btn-sm" title="Delete">
                                                     <i class="bi bi-trash"></i>

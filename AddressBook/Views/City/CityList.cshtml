@@ -2,6 +2,7 @@
 @using System.Data
 
 <main id="main" class="main">
+    <span class="text-danger">@TempData["ErrorMessage"]</span>
     <div class="pagetitle">
         <h1>City List</h1>
         <nav>
@@ -53,6 +54,8 @@
                             <h5 class="card-title">City List</h5>
                             <a class="btn btn-secondary " id="addQuiz" asp-controller="City" asp-action="CityAddEdit">+Add City</a>
                         </div>
+                        <a asp-controller="City" asp-action="ExportToExcel" class="btn btn-success">Download Excel</a>
+
                         <!-- Table with stripped rows -->
                         <table class="table table-striped table-hover">
                             <thead>
@@ -76,7 +79,7 @@
                                         <td>
                                             <a asp-controller="City" asp-action="CityAddEdit" asp-route-CityId="@row["CityId"]" class="btn btn-primary btn-sm" title="Upload new profile image"><i class="bi bi-pencil"></i></a>
 
-                                            <form method="post" asp-controller="City" asp-action="CityDelete" onsubmit="return confirmDelete()" style="display:inline;">
+                                            <form method="post" asp-controller="City" asp-action="CityDelete" onclick="return confirm('Are you sure you want to delete this user?');" style="display:inline;">
                                                 <input type="hidden" name="CityId" value="@row["CityId"]" />
                                                 <button type="submit" class="btn btn-danger btn-sm" title="Delete">
                                                     <i class="bi bi-trash"></i>
